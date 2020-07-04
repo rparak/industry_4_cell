@@ -79,7 +79,7 @@ Link Prusa Slicer: https://www.prusa3d.com/prusaslicer/
 </p>
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/3D_Models/images/smc_pad_V3.png.png" width="800" height="400">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/3D_Models/images/smc_pad_V3.png" width="800" height="400">
 </p>
 
 ## Used parts in the Production line (i4c):
