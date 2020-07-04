@@ -66,10 +66,18 @@ Link Prusa Slicer: https://www.prusa3d.com/prusaslicer/
 </p>
 
 <p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/3D_Models/images/7th_axis_2.png" width="800" height="400">
+</p>
+
+<p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/3D_Models/images/7th_axis_wRobot.png" width="800" height="400">
 </p>
 
 **UR3 Pad:**
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/3D_Models/images/ur3_pad.png" width="800" height="400">
+</p>
+
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/3D_Models/images/ur3_pad.png" width="800" height="400">
 </p>
