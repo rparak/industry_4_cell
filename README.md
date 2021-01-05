@@ -8,6 +8,18 @@ The Unity3D tool is an important part of the design of the entire solution for t
 
 The digital twin includes both real device control and simulation control, object manipulation, collision detection, as well as full connection to the control system via OPC UA communication, connection to an industrial/collaborating robot, TCP/IP and UDP communication, as well as performance optimization via multithreaded programming.
 
+**Requirements:**
+
+```bash
+Unity 2020.1.0, Visual Studio 2020
+```
+
+**Supported on the following operating systems:**
+
+```bash
+Windows, Android
+```
+
 Youtube Link: https://www.youtube.com/watch?v=Kdlztw0AE4c
 
 ## Important articles about Industry 4.0 Cell:
