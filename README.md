@@ -8,6 +8,10 @@ The Unity3D tool is an important part of the design of the entire solution for t
 
 The digital twin includes both real device control and simulation control, object manipulation, collision detection, as well as full connection to the control system via OPC UA communication, connection to an industrial/collaborating robot, TCP/IP and UDP communication, as well as performance optimization via multithreaded programming.
 
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/dt.png" width="550" height="300">
+</p>
+
 **Requirements:**
 
 ```bash
