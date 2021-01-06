@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/elSwitch.PNG" width="550" height="300">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/elSwitch.PNG" width="400" height="250">
 </p>
 
 ## Digital Twin:
