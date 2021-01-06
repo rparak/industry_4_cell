@@ -1,5 +1,13 @@
 # Industry 4.0 Cell (i4C)
 
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="550" height="300">
+</p>
+
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/elSwitch.PNG" width="550" height="300">
+</p>
+
 ## Digital Twin:
 
 The I4C robotic cell (Industry 4.0 Cell) uses, among other things, my own tool for controlling and programming robotic dynamic simulations (digital twins), more precisely the Unity3D tool with the advanced physics module NVIDIA PhysX.
