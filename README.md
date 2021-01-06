@@ -44,6 +44,10 @@ Link: https://uai.fme.vutbr.cz/veda/laborator-i4c
 
 Link: https://bulletin-ncp4.solidpixels.net/aktuality/i4c-roboticka-bunka-prumyslu-40-na-uai-fsi-vut-v-brne
 
+## Sponsors & Partners:
+
+[SMC](https://www.smc.eu/cs-cz)
+
 ## Contact Info:
 Roman.Parak@outlook.com
 
