@@ -47,7 +47,10 @@ Link: https://bulletin-ncp4.solidpixels.net/aktuality/i4c-roboticka-bunka-prumys
 ## Sponsors & Partners:
 
 [SMC Industrial Automation](https://www.smc.eu/en-eu),
-[ABB Robotics](https://new.abb.com/about/our-businesses/robotics-and-discrete-automation)
+[B&R Automation](https://www.br-automation.com/en/),
+[ABB Robotics](https://new.abb.com/about/our-businesses/robotics-and-discrete-automation),
+[Universal Robots](https://www.universal-robots.com),
+[Photoneo](https://www.photoneo.com)
 
 
 ## Contact Info:
