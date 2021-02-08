@@ -48,7 +48,7 @@ Link: https://bulletin-ncp4.solidpixels.net/aktuality/i4c-roboticka-bunka-prumys
 
 Link: https://automa.cz/Aton/FileRepository/pdf_articles/13356.pdf
 
-**Industry 4.0 Cluster: **
+**Industry 4.0 Cluster:**
 
 Link: https://ic40.cz/#article=1139-roboticka-bunka-k-dispozici-i-pro-vas
 
