@@ -60,6 +60,10 @@ Link Youtube: https://www.youtube.com/watch?v=-evvzksLiKs&t=2931s
 
 Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
 
+**Collaborative Robot YuMi (IRB 14050) analyzes test samples:**
+
+Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
+
 ## Sponsors & Partners:
 
 [SMC Industrial Automation](https://www.smc.eu/en-eu),
