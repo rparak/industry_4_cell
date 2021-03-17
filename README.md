@@ -1,6 +1,6 @@
 # Industry 4.0 Cell (i4C) - Robotic cell according to the Industry 4.0 Concept
 
-The first phase of project deals with the design of a robotic cell in the context of Industry 4.0 and implementation at the Institute of Automation and Computer Science, Faculty of Mechanical Engineering, Brno University of Technology. The main part of this phase of the project is focused on the construction of the cell, which complements the part of advanced system integration, human-machine interface, tools for the simulation of robots as dynamic systems (Digital-Twin), and the use of augmented/virtual reality. 
+The first phase of the project deals with the design of a robotic cell in the context of Industry 4.0 and implementation at the Institute of Automation and Computer Science, Faculty of Mechanical Engineering, Brno University of Technology. The main part of this phase of the project is focused on the construction of the cell, which complements the part of advanced system integration, human-machine interface, tools for the simulation of robots as dynamic systems (Digital-Twin), and the use of augmented/virtual reality.
 
 The next phase and future of the project is the development of advanced functionalities in the field of robotics, artificial intelligence, machine vision, etc., aimed at improving robotic tasks such as flexible production, intelligent sorting and machine handling. Another part of this phase will be the expansion of the cell with various devices (robots, PLCs, cameras, etc.) and the improvement of system integration.
 
