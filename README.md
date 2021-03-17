@@ -31,8 +31,8 @@ The main idea of the i4C (Industry 4.0 Cell) project is adaptability to future a
 - Additive Manufacturing
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="750" height="500">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="750" height="500"
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="750" height="450">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="750" height="450"
 </p>
 
 ## Digital Twin:
@@ -44,7 +44,7 @@ The Unity3D tool is an important part of the design of the entire solution for t
 The digital twin includes both real device control and simulation control, object manipulation, collision detection, as well as full connection to the control system via OPC UA communication, connection to an industrial/collaborating robot, TCP/IP and UDP communication, as well as performance optimization via multithreaded programming.
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/dt.png" width="750" height="500">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/dt.png" width="750" height="450">
 </p>
 
 **Requirements:**
