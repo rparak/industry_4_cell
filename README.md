@@ -64,6 +64,10 @@ Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
 
 Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
 
+**Conference BRNO INDUSTRY 4.0 | 2021 (Flexible Production section):**
+
+Link: https://www.youtube.com/watch?v=Qoz0qKeLzCk
+
 ## Sponsors & Partners:
 
 [SMC Industrial Automation](https://www.smc.eu/en-eu),
