@@ -64,8 +64,8 @@ Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
 Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_1.JPG" width="250" height="150">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_1.JPG" width="250" height="150"
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_1.JPG" width="350" height="200">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_2.JPG" width="350" height="200"
 </p>
 
 **Conference BRNO INDUSTRY 4.0 | 2021 (Flexible Production section):**
