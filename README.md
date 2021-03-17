@@ -1,8 +1,8 @@
 # Industry 4.0 Cell (i4C)
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="550" height="300">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="550" height="300"
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="100" height="50">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="100" height="50"
 </p>
 
 ## Digital Twin:
