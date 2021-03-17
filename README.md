@@ -63,6 +63,8 @@ Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
 
 **Conference BRNO INDUSTRY 4.0 | 2021 (Flexible Production section):**
 
+5th International B2B Conference about Production Digitization and Smart Technologies for Industry
+
 Link: https://www.youtube.com/watch?v=Qoz0qKeLzCk
 
 ## Sponsors & Partners:
