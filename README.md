@@ -35,7 +35,7 @@ The main idea of the i4C (Industry 4.0 Cell) project is adaptability to future a
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="750" height="450"
 </p>
 
-## Digital Twin:
+## Digital Twin and Augmented Reality:
 
 The I4C robotic cell (Industry 4.0 Cell) uses, among other things, my own tool for controlling and programming robotic dynamic simulations (digital twins), more precisely the Unity3D tool with the advanced physics module NVIDIA PhysX.
 
@@ -45,6 +45,12 @@ The digital twin includes both real device control and simulation control, objec
 
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/dt.png" width="750" height="450">
+</p>
+
+The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization display a 3D model on the screen of a mobile phone, tablet or computer together with the control panel of the object.
+
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/ar.JPG" width="750" height="450">
 </p>
 
 **Requirements:**
