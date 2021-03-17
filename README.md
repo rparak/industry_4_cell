@@ -72,7 +72,7 @@ Link Youtube: https://www.youtube.com/watch?v=-evvzksLiKs&t=2931s
 Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/bi40_1.png" width="450" height="300">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/robotics_conference_1.JPG" width="550" height="400">
 </p>
 
 **Collaborative Robot YuMi (IRB 14050) analyzes test samples:**
