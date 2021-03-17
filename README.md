@@ -51,6 +51,18 @@ Link: https://ic40.cz/#article=1139-roboticka-bunka-k-dispozici-i-pro-vas
 
 ## Another activities:
 
+**Open days at the Faculty of Mechanical Engineering:**
+
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/dod_1.jpg" width="550" height="300">
+</p>
+
+**Presentation (promotion) of robotics for the science camp (Science enjoys us), Night of Scientists, etc .:**
+
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/science_camp_1.png" width="550" height="300">
+</p>
+
 **Workshop focused on a more detailed description of the i4C production line [2020](https://www.konference-roboty.cz/archiv/2020/program.html), [2021](https://www.konference-roboty.cz/program.html):**
 
 The largest conference on robotics in the Czech Republic organized by Trade Media International.
@@ -58,6 +70,10 @@ The largest conference on robotics in the Czech Republic organized by Trade Medi
 Link Youtube: https://www.youtube.com/watch?v=-evvzksLiKs&t=2931s
 
 Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
+
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/bi40_1.png" width="550" height="300">
+</p>
 
 **Collaborative Robot YuMi (IRB 14050) analyzes test samples:**
 
@@ -73,6 +89,10 @@ Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
 5th International B2B Conference about Production Digitization and Smart Technologies for Industry
 
 Link: https://www.youtube.com/watch?v=Qoz0qKeLzCk
+
+<p align="center">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/bi40_1.png" width="550" height="300">
+</p>
 
 ## Sponsors & Partners:
 
