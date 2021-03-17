@@ -4,7 +4,7 @@ The first phase of project deals with the design of a robotic cell in the contex
 
 The next phase and future of the project is the development of advanced functionalities in the field of robotics, artificial intelligence, machine vision, etc., aimed at improving robotic tasks such as flexible production, intelligent sorting and machine handling. Another part of this phase will be the expansion of the cell with various devices (robots, PLCs, cameras, etc.) and the improvement of system integration.
 
-The main idea of the i4C project (Industry 4.0 Cell) is adaptability to future automation technologies in various fields, improving literacy (understanding robotics) and helping students (future engineers/scientists, etc.) to create a better future.
+The main idea of the i4C (Industry 4.0 Cell) project is adaptability to future automation technologies in various fields, improving literacy (understanding robotics) and helping students (future engineers/scientists, etc.) to create a better future.
 
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="550" height="300">
