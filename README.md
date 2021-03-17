@@ -53,6 +53,8 @@ Link: https://ic40.cz/#article=1139-roboticka-bunka-k-dispozici-i-pro-vas
 
 **Workshop focused on a more detailed description of the i4C production line [2020](https://www.konference-roboty.cz/archiv/2020/program.html), [2021](https://www.konference-roboty.cz/program.html):**
 
+The largest conference on robotics in the Czech Republic organized by Trade Media International.
+
 Link Youtube: https://www.youtube.com/watch?v=-evvzksLiKs&t=2931s
 
 Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
