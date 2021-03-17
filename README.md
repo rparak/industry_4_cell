@@ -50,7 +50,7 @@ The digital twin includes both real device control and simulation control, objec
 The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization, displays the 3D model on the screen of the mobile phone, tablet or computer together with the control panel of the object.
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/ar.JPG" width="750" height="450">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/ar.JPG" width="650" height="450">
 </p>
 
 **Requirements:**
