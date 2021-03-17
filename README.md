@@ -2,10 +2,7 @@
 
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="550" height="300">
-</p>
-
-<p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="550" height="300">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="550" height="300"
 </p>
 
 ## Digital Twin:
