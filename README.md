@@ -6,6 +6,30 @@ The next phase and future of the project is the development of advanced function
 
 The main idea of the i4C (Industry 4.0 Cell) project is adaptability to future automation technologies in various fields, improving literacy (understanding robotics) and helping students (future engineers/scientists, etc.) to create a better future.
 
+**Laboratory Activities:**
+- Lectured courses (Programmable Logic Controllers, Machine Vision, Industry 4.0, AI Algorithms, Neural Networks and Evolution Methods, Programming for robots and manipulators, etc.)
+- Bachelor's / Master's theses
+- Workshops, Open Days, Robotics promotion (Science enjoys us, Night of Scientists), Robotics Conferences, etc.
+
+**Research Activities:**
+
+1. Autonomous Robotics – Industrial robotics/Mobile robotics:
+- Virtual / Digital Twin (Simulation) , Human-Machine Interface 
+- Trajectory optimization/Motion planning (Multi-criteria optimization, AI – Deep Reinforcement Learning, etc.)
+- System Integration (OPC UA, POWERLINK, PROFINET, Ethernet/IP, etc.)
+- Data processing, Big Data
+- Safety technology
+
+2. Computer vision / Image processing:
+- 2D/3D (Bin-Picking, Visual inspection, etc.)
+- Human-Machine Collaboration
+- Machine Perception
+
+3. Other:
+- Virtual / Augmented reality
+- 5G networks, IoT (Internet Of Things)
+- Additive Manufacturing
+
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="550" height="300">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="550" height="300"
