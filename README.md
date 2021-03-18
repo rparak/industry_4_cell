@@ -30,6 +30,8 @@ The main idea of the i4C (Industry 4.0 Cell) project is adaptability to future a
 - 5G networks, IoT (Internet Of Things)
 - Additive Manufacturing
 
+The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
+
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/3dMod.png" width="750" height="450">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/real.png" width="750" height="450"
