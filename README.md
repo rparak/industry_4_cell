@@ -133,7 +133,7 @@ Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
 Link: https://www.youtube.com/watch?v=Qoz0qKeLzCk
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/bi40_1.png" width="550" height="375">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/bi40_1.png" width="550" height="400">
 </p>
 
 ## Sponsors & Partners:
