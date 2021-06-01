@@ -102,7 +102,7 @@ Link: https://ic40.cz/#article=1139-roboticka-bunka-k-dispozici-i-pro-vas
 **Presentation (promotion) of robotics for the science camp (Science enjoys us), Night of Scientists, etc .:**
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/science_camp_1.png" width="900" height="400">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/science_camp_1.png" width="800" height="400">
 </p>
 
 **Workshop focused on a more detailed description of the i4C production line [2020](https://www.konference-roboty.cz/archiv/2020/program.html), [2021](https://www.konference-roboty.cz/program.html):**
@@ -122,8 +122,8 @@ Link IACS: https://uai.fme.vutbr.cz/ustav/aktuality/68588
 Link: https://www.fme.vutbr.cz/en/fakulta/aktuality/67863
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_1.JPG" width="300" height="275">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_2.JPG" width="300" height="275"
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_1.JPG" width="400" height="275">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/openT_2.JPG" width="400" height="275"
 </p>
 
 **Conference BRNO INDUSTRY 4.0 | 2021 (Flexible Production section):**
