@@ -99,7 +99,7 @@ Link: https://ic40.cz/#article=1139-roboticka-bunka-k-dispozici-i-pro-vas
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/dod_1.jpg" width="550" height="400">
 </p>
 
-**Presentation (promotion) of robotics for the science camp (Science enjoys us), Night of Scientists, etc .:**
+**Presentation (promotion) of robotics for the science camp (Science enjoys us), Night of Scientists, etc.:**
 
 <p align="center">
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/science_camp_1.png" width="900" height="350">
