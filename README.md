@@ -150,8 +150,8 @@ Link: https://www.fme.vutbr.cz/fakulta/aktuality/69274
 [B&R Automation](https://www.br-automation.com/en/),
 [ABB Robotics](https://new.abb.com/about/our-businesses/robotics-and-discrete-automation),
 [Universal Robots](https://www.universal-robots.com),
-[Photoneo](https://www.photoneo.com)
-[Brno Regional Chamber of Commerce](https://www.rhkbrno.cz/en/)
+[Photoneo](https://www.photoneo.com),
+[Brno Regional Chamber of Commerce](https://www.rhkbrno.cz/en/),
 [INDUSTRY CLUSTER 4.0](https://ic40.cz/?lang=en)
 
 
