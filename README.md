@@ -141,7 +141,7 @@ Link: https://www.youtube.com/watch?v=Qoz0qKeLzCk
 Link: https://www.fme.vutbr.cz/fakulta/aktuality/69274
 
 <p align="center">
-<img src="https://github.com/rparak/industry_4_cell/blob/master/images/i4Cluster_Brno.jfif" width="550" height="400">
+<img src="https://github.com/rparak/industry_4_cell/blob/master/images/i4Cluster_Brno.jfif" width="400" height="400">
 </p>
 
 ## Sponsors & Partners:
