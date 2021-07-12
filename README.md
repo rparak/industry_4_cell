@@ -136,6 +136,10 @@ Link: https://www.youtube.com/watch?v=Qoz0qKeLzCk
 <img src="https://github.com/rparak/industry_4_cell/blob/master/images/bi40_1.png" width="550" height="400">
 </p>
 
+**Brno Regional Chamber of Commerce in the Industry 4.0 Cell (BUT, FME)**
+
+Link: https://www.fme.vutbr.cz/fakulta/aktuality/69274
+
 ## Sponsors & Partners:
 
 [SMC Industrial Automation](https://www.smc.eu/en-eu),
